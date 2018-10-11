@@ -1,0 +1,11 @@
+body{
+    font-family: sans-serif;
+    margin-left: 80px;
+    margin-top: 60px;
+    font-size: 125%;
+}
+
+.tabRight{
+   position: absolute;
+   left: 500px;
+}
